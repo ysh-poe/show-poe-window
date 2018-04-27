@@ -1,0 +1,6 @@
+{
+  "name": "show-poe-window",
+  "description": "Small c++ tool that puts the PoE Window into the foreground.",
+  "version": "1.0.0",
+  "license": "MIT"
+}
